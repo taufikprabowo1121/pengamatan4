@@ -1,0 +1,5 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan4\Pengamatan4\bin\Debug\Pengamatan4.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan4\Pengamatan4\bin\Debug\Pengamatan4.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan4\Pengamatan4\bin\Debug\Pengamatan4.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan4\Pengamatan4\obj\Debug\Pengamatan4.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan4\Pengamatan4\obj\Debug\Pengamatan4.pdb
